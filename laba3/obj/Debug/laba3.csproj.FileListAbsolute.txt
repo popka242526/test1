@@ -1,0 +1,10 @@
+C:\Users\KA2406_18\source\repos\laba3\laba3\bin\Debug\laba3.exe.config
+C:\Users\KA2406_18\source\repos\laba3\laba3\bin\Debug\laba3.exe
+C:\Users\KA2406_18\source\repos\laba3\laba3\bin\Debug\laba3.pdb
+C:\Users\KA2406_18\source\repos\laba3\laba3\obj\Debug\laba3.csproj.AssemblyReference.cache
+C:\Users\KA2406_18\source\repos\laba3\laba3\obj\Debug\laba3.Form1.resources
+C:\Users\KA2406_18\source\repos\laba3\laba3\obj\Debug\laba3.Properties.Resources.resources
+C:\Users\KA2406_18\source\repos\laba3\laba3\obj\Debug\laba3.csproj.GenerateResource.cache
+C:\Users\KA2406_18\source\repos\laba3\laba3\obj\Debug\laba3.csproj.CoreCompileInputs.cache
+C:\Users\KA2406_18\source\repos\laba3\laba3\obj\Debug\laba3.exe
+C:\Users\KA2406_18\source\repos\laba3\laba3\obj\Debug\laba3.pdb
